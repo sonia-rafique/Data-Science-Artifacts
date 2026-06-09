@@ -79,7 +79,7 @@ Based on the distinct spending behaviors identified above, the following tactica
 ## Task Objective
 The primary objective of this project is to build an analytical framework capable of forecasting short-term household energy utilization based on sequential historical records. By effectively predicting variations in global active power demand, utility infrastructure and property managers can make informed adjustments to power distribution, manage heavy electrical loads efficiently, and optimize grid resource allocation.
 
-## Your Approach
+## My Approach
 The development of this forecasting engine was executed through a structured, reproducible four-stage machine learning process:
 
 1. **Data Ingestion and Engineering Cleanup**
